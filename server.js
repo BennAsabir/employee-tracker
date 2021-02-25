@@ -9,15 +9,15 @@ let updatedEmployee = [];
 promptStart = () => {
 
     console.log(`
-    
     -----------------------------------------
-    *  WELCOME TO YOUR EMPLOYEE DATABASE    *
-    *                                       *
+    -----------------------------------------  
+    *           |EMPLOYEE TRACKER|          *
+    *               |DATABASE|              *
     *                                       *
     *   SELECT AN OPTION FROM THE LIST      *
     * OR SELECT EXIT TO CLOSE THE DATABASE  *
     -----------------------------------------
-    
+    -----------------------------------------
     `)
 }
 
