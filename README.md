@@ -15,7 +15,7 @@ Image showcasing the application running in the Terminal.
 <img src=./assets/images/screenshot.png>
 
 Demonstration Video
-<img src=./assets/gif/demo2.gif>
+<img src=./assets/images/preview.gif>
 
 ## Technologies
 Project is created with 
