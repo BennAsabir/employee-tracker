@@ -12,7 +12,7 @@ A command-line application to manage a company's employee database, using Node.j
 ## General Info
 The Employee-Tracker is a command line application to view and manage company employees. The application accesses employee data in a MySQL database which views,creates and updates employees, departments, and roles.<br>
 Image showcasing the application running in the Terminal.
-<img src=./assets/images/screenshot2.png>
+<img src=./assets/images/screenshot.png>
 
 Demonstration Video
 <img src=./assets/gif/demo2.gif>
